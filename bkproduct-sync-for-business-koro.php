@@ -3,7 +3,7 @@
  * Plugin Name: BKProduct Sync for Business Koro
  * Plugin URI:  https://facebook.com/vipergadget
  * Description: Independent integration plugin to import products and Color/Size variants from Business Koro API into WooCommerce, manage products, send orders, and check live order status.
- * Version:     1.2.0
+ * Version:     1.4.0
  * Author:      Md.Shimul Hasan Boni
  * Author URI:  https://facebook.com/BDshemul71
  * License:     GPLv2 or later
