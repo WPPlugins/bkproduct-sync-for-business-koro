@@ -15,7 +15,7 @@ Independent integration plugin to sync products and Color/Size variants from Bus
 
 == Description ==
 
-**BKProduct Sync for Business Koro** is an independent third-party integration plugin created by Md.Shimul Hasan Boni (ViperGadget) that bridges your WooCommerce store with the Business Koro Storefront API. It is not affiliated with, endorsed by, or an official product of Business Koro or WooCommerce.
+**BKProduct Sync for Business Koro** is an Independent plugin to sync products and Color/Size variants from Business Koro API into WooCommerce, send orders, and track live order status.
 
 Key Features:
 * **Dashboard:** View live API status, Total Imported Product Count, Total Stock In Count, Total Stock Out Count, Last Imported Date, and the Total Imported Products List.
