@@ -7,21 +7,21 @@ Tested up to: 7.1
 Requires PHP: 7.4
 WC requires at least: 7.0
 WC tested up to: 9.5
-Stable tag: 1.2.0
+Stable tag: 1.3.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Independent integration plugin to sync products and Color/Size variants from Business Koro API into WooCommerce, send orders, and check live order status.
+Sync products and Color/Size variants from Business Koro to WooCommerce, send orders, and track live order status.
 
 == Description ==
 
 **BKProduct Sync for Business Koro** is an Independent plugin to sync products and Color/Size variants from Business Koro API into WooCommerce, send orders, and track live order status.
 
 Key Features:
-* **Dashboard:** View live API status, Total Imported Product Count, Total Stock In Count, Total Stock Out Count, Last Imported Date, and the Total Imported Products List.
-* **Import Product:** Fetch products from Business Koro and sync them directly into WooCommerce products (including name, description, price, stock status, Color/Size attributes, and product images) with smooth progress feedback.
+* **Dashboard:** View live API status, Total Imported Products, Total Stock In, Total Stock Out, Last Imported Date, and the Total Imported Products.
+* **Import Product:** Fetch products from Business Koro and sync them directly into WooCommerce products (including name, description, price, stock status, Color/Size attributes).
 * **Manage Products:** Browse imported WooCommerce products, open products in WooCommerce editor, or remove imported items cleanly.
-* **Manage Orders:** Inspect WooCommerce orders in a modal popup showing customer name, phone number, division, district, area/upazila, full address, items, and variants, then send orders to Business Koro with one click or check live order status.
+* **Manage Orders:** Inspect WooCommerce orders in a modal popup showing customer Order Details, then send orders to Business Koro with one click.
 * **Settings:** Securely save and update your Business Koro API key and optional domain header on the server side with instant **Active** or **Api key Incorrect** status verification.
 * **Help:** View developer and support contact information.
 
